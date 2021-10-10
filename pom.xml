@@ -4,7 +4,7 @@
 
     <groupId>com.kinetica</groupId>
     <artifactId>jgltf-mesh</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>${project.groupId}:${project.artifactId}</name>
     <description>Build geometry and meshes for glTF formats.</description>
@@ -35,7 +35,7 @@
         <connection>scm:git:git://github.com/muhammedfatih/jgltf-mesh.git</connection>
         <developerConnection>scm:git:ssh://github.com:muhammedfatih/jgltf-mesh.git</developerConnection>
         <url>https://github.com/muhammedfatih/jgltf-mesh</url>
-      <tag>jgltf-mesh-1.0.1</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <properties>

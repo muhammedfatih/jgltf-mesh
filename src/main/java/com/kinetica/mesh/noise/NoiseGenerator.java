@@ -4,7 +4,7 @@
  * SPDX-License-Identifier: MIT
  */
 
-package com.kinetica.mesh.noise;
+package io.github.muhammedfatih.mesh.noise;
 
 /**
  * Wrapper for Noise generators.

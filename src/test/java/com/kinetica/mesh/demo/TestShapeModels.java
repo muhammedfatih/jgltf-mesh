@@ -4,7 +4,7 @@
  * SPDX-License-Identifier: MIT
  */
 
-package com.kinetica.mesh.demo;
+package io.github.muhammedfatih.mesh.demo;
 
 import java.awt.Color;
 import java.io.File;
@@ -17,10 +17,10 @@ import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.kinetica.mesh.GltfWriter;
-import com.kinetica.mesh.GltfWriter.AlphaMode;
-import com.kinetica.mesh.MeshBuilder;
-import com.kinetica.mesh.MeshVertex;
+import io.github.muhammedfatih.mesh.GltfWriter;
+import io.github.muhammedfatih.mesh.GltfWriter.AlphaMode;
+import io.github.muhammedfatih.mesh.MeshBuilder;
+import io.github.muhammedfatih.mesh.MeshVertex;
 
 import de.javagl.jgltf.impl.v2.Material;
 

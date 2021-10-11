@@ -4,7 +4,7 @@
  * SPDX-License-Identifier: MIT
  */
 
-package com.kinetica.mesh;
+package io.github.muhammedfatih.mesh;
 
 import java.awt.Color;
 import java.util.ArrayList;
@@ -18,12 +18,12 @@ import javax.vecmath.Vector3f;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.kinetica.mesh.buffer.Normals;
-import com.kinetica.mesh.buffer.Tangents;
-import com.kinetica.mesh.buffer.TexCoords;
-import com.kinetica.mesh.buffer.TriangleIndices;
-import com.kinetica.mesh.buffer.VertexColors;
-import com.kinetica.mesh.buffer.Vertices;
+import io.github.muhammedfatih.mesh.buffer.Normals;
+import io.github.muhammedfatih.mesh.buffer.Tangents;
+import io.github.muhammedfatih.mesh.buffer.TexCoords;
+import io.github.muhammedfatih.mesh.buffer.TriangleIndices;
+import io.github.muhammedfatih.mesh.buffer.VertexColors;
+import io.github.muhammedfatih.mesh.buffer.Vertices;
 
 import de.javagl.jgltf.impl.v2.Material;
 import de.javagl.jgltf.impl.v2.Mesh;
